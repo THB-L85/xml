@@ -1,0 +1,274 @@
+<? xml version = "1.0" encoding = "utf-8" ?>
+
+<personas>
+    <persona>
+        <nombre> Luis Andres Duran </nombre>
+        <calle> Calera 650</calle>
+        <colonia> Lindavista </colonia>
+        <estado> Ciudad de México </estado>
+        <telefono> 5540155236 </telefono>
+        <correo> luis@gmail.com </correo>
+    </persona>
+    
+    <persona>
+        <nombre> Andrés Duran </nombre>
+        <calle> Rubi 1550 </calle>
+        <colonia> Agrícola Oriental </colonia>
+        <estado> Ciudad de México </estado>
+        <telefono> 5574849565 </telefono>
+        <correo> andres@gmail.com </correo>
+    </persona>
+    
+    <persona>
+        <nombre> Alberto Robles </nombre>
+        <calle> Juan Aldama 135 </calle>
+        <colonia> Álvaro Obregón </colonia>
+        <estado> Ciudad de México </estado>
+        <telefono> 5514253695 </telefono>
+        <correo> alberto@gmail.com </correo>
+    </persona>
+    
+    <persona>
+        <nombre> Michelle Hernández </nombre>
+        <calle> Sor Juana 540 </calle>
+        <colonia> Serdan </colonia>
+        <estado> Puebla </estado>
+        <telefono> 2224859584 </telefono>
+        <correo> michelle@gmail.com </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+    <persona>
+        <nombre>  </nombre>
+        <calle>  </calle>
+        <colonia>  </colonia>
+        <estado>  </estado>
+        <telefono>  </telefono>
+        <correo>  </correo>
+    </persona>
+    
+</personas>
